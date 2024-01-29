@@ -11,3 +11,6 @@ first just install the zin then run the .exe as an admin and yea
 
 
 YOUR COMPUTER IS GONA :)
+
+
+or just copy the code og vendow.py and run that in python and WARNING ITS ALSO MALWRE
